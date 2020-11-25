@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Akshay Ithape</title>
+    <link>https://AkshayIthape.github.io/akshayportfolio/post/</link>
+    <description>Recent content in Projects on Akshay Ithape</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://AkshayIthape.github.io/akshayportfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3 : Perform Bank Market Segmentation &amp; transform marketing department (Python)</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project3/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project3/</guid>
+      <description>By understanding the customer, marketers can launch a targeted marketing campaign that is tailored for specific needs. If data about the customers is available, data science can be applied to perform market segmentation
+In this case study, you have been hired as a consultant to a bank in New York City. The bank has extensive data on their customers for the past 6 months. The marketing team at the bank wants to launch a targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups.</description>
+    </item>
+    
+    <item>
+      <title>Project 13 :Built Secure Serverless Application with Azure Function, Cosmos DB, API Management, Azure ADB2C &amp; Azure Blob Storage.</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project13/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project13/</guid>
+      <description>Built a serverless web application from start to deployment on the web using Azure services - and with no standalone services or server instances at all! Azure will add more server power when your application needs it, and will take care of scaling back down when you don&amp;rsquo;t. And you only pay for what you use.
+Learnt to use the following Azure services:
+  Storing Data in Cosmos DB: Introduced Cosmos DB which is Azure&amp;rsquo;s multi-model database offering and create database for project</description>
+    </item>
+    
+    <item>
+      <title>Project 4 : Building Big Data Pipeline with PySpark &#43; MongoDB &#43; Bokeh</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project4/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project4/</guid>
+      <description>Predicted earthquakes one year in advance using training data which is past earthquakes ranging from the year 1965 up until year 2016. Built Intelligent ETLP Data Pipeline using big data technology Apache Spark and MongoDB, Performed data processing using PySpark. Carried predictive modeling on geospatial data using PySpark MLlib machine learning library &amp;amp; data analysis using MongoDB &amp;amp; Bokeh. Created geo map, dashboard, bar chart for displaying the earthquake data, also created lightweight server that will serve the dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Project 5 : Retail Sales Prediction using AWS SageMaker XGBoost Algorithm</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project5/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project5/</guid>
+      <description>The objective of this case study is to forecast weekly retail store sales based on historical data. This dataset contains weekly sales from 99 departments belonging to 45 different stores. The data contains holidays and promotional markdowns offered by various stores and several departments throughout the year . Markdowns are crucial to promote sales especially before key events such as Super Bowl, Christmas and Thanksgiving. Developing accurate model will enable make informed decisions and make recommendations to improve business processes in the future.</description>
+    </item>
+    
+    <item>
+      <title>Project 6 : Predicting future product sales using Facebook prophet</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project6/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project6/</guid>
+      <description>For companies to become competitive and skyrocket their growth, they need to leverage AI/ML to develop predictive models to forecast sales in the future. Predictive models attempt at forecasting future sales based on historical data while taking into account seasonality effects, demand, holidays, promotions, and competition. In this project, you work as a data scientist in the sales department and the sales team provided you with data from 1115 stores. The objective is to predict future daily sales based on the features.</description>
+    </item>
+    
+    <item>
+      <title>Project 1 : Predict solar power system coverage</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project1/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project1/</guid>
+      <description>Reduced the number of predictor variables by removing the highly correlated ones Implemented Logistic Regression, Random Forest, SVM and bagging models for classification using R software. Implemented hold-out sample cross-validation techniques in order to compare the classification performance of the 4 models. After analysis, Random Forest is best model with 91% accuracy.    Random Forest
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2 : Deploy Predictive Model for daily/sports activity recognition from movement sensor data in R. </title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project2/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project2/</guid>
+      <description>In our entire analysis, we have done everything right from data preprocessing to optimal model selection and tuning the selected optimal model. We achieved all this by doing the following:
+ Reshaping the 3D features to 2D features, performed one-hot encoding on the target variables, normalizing the range of the features and reducing the high-dimensional features by implementing PCA. Deploying a simple 2 layered neural network model without any regularization and comparing this model’s performance to the performance of the 2 layered regularized neural network.</description>
+    </item>
+    
+    <item>
+      <title>Project 7 : IMDB and Amazon Review Classification with SpaCy.</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project7/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project7/</guid>
+      <description>Cleaned data, removed stop words, punctuations &amp;amp; applied lemmatization, also performed Vectorization Feature Engineering (TF-IDF). Trained the model, &amp;amp; predicted the test set results, with classification report having accuracy 77% &amp;amp; accuracy score of 76%.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8 : Business Data Analysis using SQL and Tableau.</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project8/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project8/</guid>
+      <description> Used MySQL Server, Microsoft SQL Server Management Studio 18 &amp;amp; SQL to create and execute complex queries for data analysis on North wind Database. Extracted data from SQL Server &amp;amp; loaded it in Tableau for data visualization &amp;amp; created Tableau Dashboard.      </description>
+    </item>
+    
+    <item>
+      <title>Project 14 : Built RESTful API with Authentication &amp; consumed it in ASP.NET Core Web application.</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project14/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project14/</guid>
+      <description>Built a RESTful web service with Web API , make GET, POST, PUT and DELETE HTTP Requests with a well-built repository pattern in ASP.NET Core Project. Carried out the below tasks in the project.
+  Built RESTful API in ASP.NET Core 3.1, documented the API using swagger &amp;amp; swashbuckler, added version control to the API.
+  Implemented Repository Pattern in API to database using Entity framework.
+  Implemented Authentication and Authorization in API and Consume API also Integrated Entity Framework along with code first migrations.</description>
+    </item>
+    
+    <item>
+      <title>Project 11 : Deploying Heart Disease Machine Learning Model using Streamlit</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project11/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project11/</guid>
+      <description> Performed Data Import, Data Cleaning, Visualization, EDA, and Feature Engineering Techniques. Deployed a model using Steamlit with 85.5% accuracy.  </description>
+    </item>
+    
+    <item>
+      <title>Project 12 : Mortality Prediction Rate in ICU using ANN.</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project12/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project12/</guid>
+      <description>Patients admitted to the ICU suffer from critical illness or injury and are at high risk of dying. ICU mortality rates differ widely depending on the underlying disease process, with death rates as low as 1 in 20 for patients admitted following elective surgery, and as high as 1 in 4 for patients with respiratory diseases. The risk of death can be approximated by evaluating the severity of a patient’s illness as determined by important physiologic, clinical, and demographic determinants.</description>
+    </item>
+    
+    <item>
+      <title>Project 10 : Tesla Stock Price Analytics using Tableau.</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project10/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project10/</guid>
+      <description>Created Data Source through Google Sheet Functions. Connecting Data for Tesla, &amp;amp; build Charts/Headline Charts/Dashboard. Published the Dynamic Dashboard to Tableau Public.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 15 : Developed a Professional Mathematics Game using HTML, CSS and JavaScript</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project15/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project15/</guid>
+      <description>The Game allows users to test how well they know their multiplication table, each question comes with multiple answers; only one is correct.
+  At the end of the test, the user is issued a score equal to the number of correct answers submitted during the game.
+  Designed an advanced original algorithm which operates the flow of the game and does everything from starting the game counter, to issuing multiple answers, until ending the game and displaying the score.</description>
+    </item>
+    
+    <item>
+      <title>Project 16 : Developed Stopwatch App in Brackets Text Editor using HTML, CSS, jQuery, Bootstrap.</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project16/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project16/</guid>
+      <description>App allows users to measure total elapsed time as well as lap time and display information about laps at the bottom of the screen.
+  Developed a fully functional Stopwatch App using HTML, CSS, jQuery and Bootstrap.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 9 : Malaria Detection using CNN in Python</title>
+      <link>https://AkshayIthape.github.io/akshayportfolio/post/project9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AkshayIthape.github.io/akshayportfolio/post/project9/</guid>
+      <description>The dataset contains 2 folders
+  Infected
+  Uninfected And a total of 27,558 images.
+  Built CNN model with 95.29% accuracy &amp;amp; accurately tested the model on Cell Images for Malaria Detection.
+      Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
